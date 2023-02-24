@@ -1,0 +1,161 @@
+.head{
+    width: 90%;
+    margin: auto;
+}
+.main_hedaer{
+    height: 110vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(image/mainBackground.png);
+    
+}
+.head_img{
+    width: 120px;
+    height: 45px;
+}
+hr{
+    color: white;
+    border: 1px solid white;
+}
+.Home_main{
+    font-size: 72px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+.home_main1{
+    font-size: 18px;
+    margin-bottom: 30px;
+    font-weight: 500;
+}
+.logo_sec{
+    width: 90%;
+    background-color: white;
+    padding: 50px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 10px;
+    position: absolute;
+    bottom: -150px;
+}
+.heda_mid{
+    width: 90%;
+    margin: auto;
+    
+}
+.k1{
+    background-color: aliceblue;
+}
+.Estate h1{
+    padding-top: 80px;
+    font-weight: 650;
+    font-size: 80px;
+    letter-spacing: 0.01em;
+    color: black;
+    margin: 60px 0px;
+}
+.card_img{
+   padding: 50px;
+    height: 630px;
+    background-size: cover;
+    border-radius: 100px;
+    border:0px solid red;
+    z-index: -1;
+}
+.imgup{
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: white;
+ }
+ .middle_main{
+    position: relative;
+    border: 0px solid red;
+ }
+ .middle_main_1{
+    position: absolute;
+    bottom: 10px;
+    left: 70px;
+ }
+ .button_sec{
+    background-color: #6663E9;
+    color: white;
+    font-family: sans-serif;
+    border-radius: 20px;
+    font-size: 22px !important;
+    padding: 15px 40px;
+    font-weight:700;
+ }
+ .nargin_two{
+    margin-top: 90px;
+
+ }
+ .nargin_one{
+    margin-top: 40px;
+
+ }
+ .midec{
+    position: absolute;
+    top: -30px;
+ }
+ .midec img{
+    border-radius: 30px;
+    width: 512px;
+    height: 500px;
+    background-size: cover;
+    border-radius: 50px;
+    margin-left: 40px;
+ }
+ .midec1{
+    position: relative;
+    height: 700px;
+ }
+
+ .Lorem{
+    font-family: sans-serif;
+    font-size: 25px;
+ }
+ .sectionimg{
+    position: absolute;
+    right: 0px;
+ }
+ .mainimg{
+    z-index: 1;
+    position: relative;
+    left: 32px;
+ }
+ .subcribe{
+    background: #6663e9;
+    box-shadow: 0px 4px 60px rgba(0, 0, 0, 0.05);
+    color: white;
+    border-radius: 40px;
+  }
+  .Newsletter{
+    padding-top: 50px;
+    font-weight: 650;
+    font-size: 80px;
+    letter-spacing: 0.01em;
+    margin: 40px 0px;
+  }
+  .Newsletter1{
+    font-weight: 400;
+    font-size: 25px;
+    font-family: sans-serif;
+  }
+  .kapil{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    background: #5654d1;
+    border-radius: 40px;
+    width: 468px;
+    height: 61px;
+    padding: 0 20px;
+  }
+  .btn_kali{
+    background: #ffffff;
+    box-shadow: 0px 4px 60px rgba(0, 0, 0, 0.05);
+    border-radius: 40px;
+    width: 174px;
+    height: 61px;
+    color: #6663e9;
+  }
+  
